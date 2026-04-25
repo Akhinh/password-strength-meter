@@ -17,3 +17,8 @@ button {
     padding: 10px;
     margin-top: 10px;
 }
+
+#result {
+    font-weight: bold;
+    margin-top: 15px;
+}
